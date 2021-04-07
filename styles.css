@@ -1,5 +1,6 @@
 body{
   font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .container{
   margin-top:10%;
@@ -94,7 +95,7 @@ nav a{
   padding:10px;
 }
 
-a{
+nav a{
   text-decoration: none;
   color:black;
 }
@@ -115,4 +116,15 @@ a:hover{
 div a{
   margin-left: 10px;
   margin-right: 10px;
+}
+
+.sign-in{
+  color:white;
+  background-color: #4285f4;
+  padding:10px;
+  font-weight: bold;
+  
+}
+.sign-in:hover{
+  text-decoration: none;
 }
