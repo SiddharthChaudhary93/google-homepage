@@ -1,5 +1,40 @@
-.center__align{
-  margin:auto;
-
+body{
+  font-size: 24px;
 }
+
+.google__image{
+  display: block;
+  margin:auto;
+}
+
+.center{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.bar--size{
+  width:50%;
+}
+
+.button{
+  font-size: 18px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+
+.search__box{
+  border-radius: 50px;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+  border:1px solid black;
+  padding: 10px;
+  width: 80%;
+}
+
 
